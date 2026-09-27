@@ -43,7 +43,7 @@ The store has growing traffic but **flat revenue**. Leadership lacks visibility 
 ### Page 3 — Segment Deep Dive
 ![Deep Dive](https://github.com/princesaini05/E-commerce-Funnel-Drop-off-RFM-Customer-Segmentation-Analysis/blob/d9a17326ac8cf0cf3ee16854a185059b5d2fe5c6/visuals/page3_deep_dive.jpg)
 
-> Full interactive dashboard: `dashboard/ecommerce_funnel_rfm.pbix`
+> Full interactive dashboard: `dashboard/E-commerce Funnel & RFM.pbix`
 
 ---
 
