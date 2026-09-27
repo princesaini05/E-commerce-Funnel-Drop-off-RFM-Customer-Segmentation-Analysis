@@ -153,3 +153,8 @@ The store has growing traffic but **flat revenue**. Leadership lacks visibility 
 | **MySQL** | Data storage, funnel queries, business queries |
 | **Power BI** | 3-page interactive dashboard |
 | **GitHub + Markdown** | Portfolio + reports |
+
+
+## 👨‍💻 Author
+
+**Prince**
