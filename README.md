@@ -35,7 +35,7 @@ The store has growing traffic but **flat revenue**. Leadership lacks visibility 
 ## Dashboard Preview
 
 ### Page 1 — Customer Funnel
-![Funnel](visuals/page1_funnel.png)
+![Funnel]([visuals/page1_funnel.png](https://github.com/princesaini05/E-commerce-Funnel-Drop-off-RFM-Customer-Segmentation-Analysis/blob/03b21b27956473e895e17a19096ac381839f01c3/visuals/page1_funnel.jpg))
 
 ### Page 2 — RFM Segments
 ![RFM Segments](visuals/page2_rfm_segments.png)
