@@ -35,13 +35,13 @@ The store has growing traffic but **flat revenue**. Leadership lacks visibility 
 ## Dashboard Preview
 
 ### Page 1 — Customer Funnel
-![Funnel](visuals/page1_funnel.png](https://github.com/princesaini05/E-commerce-Funnel-Drop-off-RFM-Customer-Segmentation-Analysis/blob/03b21b27956473e895e17a19096ac381839f01c3/visuals/page1_funnel.jpg)
+![Funnel](https://github.com/princesaini05/E-commerce-Funnel-Drop-off-RFM-Customer-Segmentation-Analysis/blob/03b21b27956473e895e17a19096ac381839f01c3/visuals/page1_funnel.jpg)
 
 ### Page 2 — RFM Segments
-![RFM Segments](visuals/page2_rfm_segments.png](https://github.com/princesaini05/E-commerce-Funnel-Drop-off-RFM-Customer-Segmentation-Analysis/blob/165f74dd7cdd2f73b274d6bd895b8ae244dfc231/visuals/page2_rfm_segments.jpg)
+![RFM Segments](https://github.com/princesaini05/E-commerce-Funnel-Drop-off-RFM-Customer-Segmentation-Analysis/blob/165f74dd7cdd2f73b274d6bd895b8ae244dfc231/visuals/page2_rfm_segments.jpg)
 
 ### Page 3 — Segment Deep Dive
-![Deep Dive](visuals/page3_deep_dive.png)
+![Deep Dive](https://github.com/princesaini05/E-commerce-Funnel-Drop-off-RFM-Customer-Segmentation-Analysis/blob/d9a17326ac8cf0cf3ee16854a185059b5d2fe5c6/visuals/page3_deep_dive.jpg)
 
 > Full interactive dashboard: `dashboard/ecommerce_funnel_rfm.pbix`
 
