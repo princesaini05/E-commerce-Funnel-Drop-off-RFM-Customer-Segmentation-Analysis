@@ -1,6 +1,3 @@
-data/raw/
-data/cleaned/
-*.csv
 *.xlsx
 *.xls
 __pycache__/
