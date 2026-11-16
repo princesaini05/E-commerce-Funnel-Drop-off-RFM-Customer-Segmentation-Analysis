@@ -1,5 +1,7 @@
 # E-Commerce Funnel Drop-off & RFM Customer Segmentation Analysis
 
+![E-commerce Dashboard](https://github.com/princesaini05/E-commerce-Funnel-Drop-off-RFM-Customer-Segmentation-Analysis/blob/ceacef87ad19a091702e518f75057685f0851cb5/Ecommerce_Customer_Segmentation_Analysis_Presentation.png)
+
 An end-to-end customer behavior analytics project using **Python, Pandas, SQL, and Power BI** to understand purchasing patterns, customer value, repeat-purchase behavior, and customer drop-off.
 
 ## Project Overview
