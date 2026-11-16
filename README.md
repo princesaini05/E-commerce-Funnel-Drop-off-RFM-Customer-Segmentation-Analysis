@@ -81,7 +81,6 @@ The Power BI report includes:
 - Loyal Customers contribute approximately **$71K** in revenue in the dashboard.
 - The purchase-depth funnel shows **3,563 customers at 5+ purchases** and **847 at 40+ purchases**.
 
-*Figures are based on the analysis and Power BI report included in this repository.*
 
 ## Business Recommendations
 
@@ -92,26 +91,6 @@ The Power BI report includes:
 - Use targeted marketing based on customer segments and age-group revenue.
 - Prioritize retention campaigns for high-value and at-risk customers.
 
-## Repository Structure
-
-```text
-.
-├── Customer_behaviour_data_cleaning.ipynb
-├── RFM Analysis & Drop-off Analysis.ipynb
-├── E-commerce Customer Segmentation Analysis.sql
-├── Ecommerce_Customer_Behavior_Analysis_Report.docx
-├── 01_powerbi_pages.pdf
-└── README.md
-```
-
-> Update the filenames above if your repository uses different names. Raw/cleaned datasets are not listed here because they may contain data that should not be redistributed.
-
-## How to Explore
-
-1. Open the data-cleaning notebook in Jupyter Notebook.
-2. Review the RFM and drop-off analysis notebook.
-3. Run the SQL script in PostgreSQL after loading the cleaned data into a table named `customer_data`.
-4. Open the Power BI report PDF to review the dashboard pages.
 
 ## Skills Demonstrated
 
