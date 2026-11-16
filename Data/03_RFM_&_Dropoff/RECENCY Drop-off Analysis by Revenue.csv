@@ -1,0 +1,6 @@
+Stage,Customers,Revenue,Revenue_Pct_of_Total,Revenue_Dropoff,Dropoff_Pct
+Active in last 365 days,3900,233081,100.0,0.0,0.0
+Active in last 90 days,3328,198662,85.23,34419.0,14.77
+Active in last 30 days,2181,129803,55.69,68859.0,34.66
+Active in last 14 days,1628,96993,41.61,32810.0,25.28
+Active in last 7 days,539,31786,13.64,65207.0,67.23

@@ -1,0 +1,6 @@
+Stage,Customers,Pct_of_total,Dropoff_From_Prev,Dropoff_pct
+Active in last 365 days,3900,100.0,0.0,0.0
+Active in last 90 days,3328,85.33,572.0,14.67
+Active in last 30 days,2181,55.92,1147.0,34.47
+Active in last 14 days,1628,41.74,553.0,25.36
+Active in last 7 days,539,13.82,1089.0,66.89

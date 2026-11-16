@@ -1,0 +1,7 @@
+Stage,Customers,Revenue,Revenue_Pct_of_Total,Revenue_Dropoff,Dropoff_Pct
+1+ purchase,3900,233081,100.0,0.0,0.0
+5+ purchases,3563,212979,91.38,20102.0,8.62
+10+ purchases,3192,189939,81.49,23040.0,10.82
+20+ purchases,2422,144770,62.11,45169.0,23.78
+30+ purchases,1631,97851,41.98,46919.0,32.41
+40+ purchases,847,51035,21.9,46816.0,47.84

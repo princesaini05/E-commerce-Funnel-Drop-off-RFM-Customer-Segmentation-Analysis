@@ -1,0 +1,7 @@
+Stage,Customers,Pct_of_total,Dropoff_From_Prev,Dropoff_pct
+1+ purchase,3900,100.0,0.0,0.0
+5+ purchases,3563,91.36,337.0,8.64
+10+ purchases,3192,81.85,371.0,10.41
+20+ purchases,2422,62.1,770.0,24.12
+30+ purchases,1631,41.82,791.0,32.66
+40+ purchases,847,21.72,784.0,48.07
