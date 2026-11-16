@@ -61,6 +61,11 @@ The SQL analysis addresses:
 ## Dashboard Highlights
 
 The Power BI report includes:
+### Page 1
+![Funnel](https://github.com/princesaini05/E-commerce-Funnel-Drop-off-RFM-Customer-Segmentation-Analysis/blob/c08826b36e74f75bd98e612060eea62faf81e232/Power%20BI%20dashboard/screenshots/01_E-commerce%20Customer%20%E2%80%94%20Executive%20Summary.png)
+
+### Page 2
+![Funnel](https://github.com/princesaini05/E-commerce-Funnel-Drop-off-RFM-Customer-Segmentation-Analysis/blob/c08826b36e74f75bd98e612060eea62faf81e232/Power%20BI%20dashboard/screenshots/02_Customer%20RFM%2C%20Funnel%20%26%20Lifetime%20Value%20Analysis.png)
 
 - Executive KPI cards: customers, revenue, average purchase amount, and average review rating.
 - Revenue by product category.
